@@ -50,7 +50,7 @@ python -m http.server 8000
 
 ## 📸 User Interface
 
-![WisataBot UI](screenshot.png)
+![WisataBot UI]
 
 ## 💡 Contoh Pertanyaan
 
